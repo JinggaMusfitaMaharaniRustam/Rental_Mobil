@@ -1,0 +1,20 @@
+Honda Civic;assets/mobil/Honda Civic.jpg;Sedan;350000;4;173 - 176
+Audi A5;assets/mobil/Audi A5.jpg;Sedan;500000;4;192-247
+Toyota Agya;assets/mobil/Toyota Agya.jpg;Hatchback;200000;4;67-88
+Honda Accord;assets/mobil/Honda Accord.jpg;Sedan;245000;5;190
+Daihatsu Ayla;assets/mobil/Daihatsu Ayla.jpg;Hatchback;330000;4;65-88
+Chevrolet Spark;assets/mobil/Chevrolet Spark.jpg;Hatchback;300000;5;98
+Daihatsu Terios;assets/mobil/Daihatsu Terios.jpg;SUV;175000;4;211
+Toyota Avanza;assets/mobil/Toyota Avanza.jpg;MPV;275000;7;98-106
+C-Class Estate;assets/mobil/C-Class Estate.jpg;Wagon;550000;4;211
+V40 Cross Country;assets/mobil/V40 Cross Country.jpg;Wagon;530000;4;211
+Toyota Calya;assets/mobil/Toyota Calya.jpg;MPV;280000;4;211
+Honda City;assets/mobil/Honda City.jpg;Sedan;430000;4;119-120
+Toyota Raize;assets/mobil/Toyota Raize.jpg;SUV;275000;4;211
+Honda Brio;assets/mobil/Honda Brio.jpg;Hatchback;275000;5;89-90
+Audi Q8;assets/mobil/Audi Q8.jpg;SUV;275000;4;211
+Suzuki Ertiga;assets/mobil/Suzuki Ertiga.jpg;MPV;235000;6;211
+Honda Odyssey;assets/mobil/Honda Odyssey.jpg;MPV;330000;4;211
+Subaru Outback;assets/mobil/Subaru Outback.jpg;Wagon;290000;4;211
+Audi RS 4 Avant;assets/mobil/Audi RS 4 Avant.jpg;Wagon;380000;4;211
+Bentley Bentayga;assets/mobil/Bentley Bentayga.jpg;SUV;430000;4;211
